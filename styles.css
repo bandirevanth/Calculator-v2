@@ -1,11 +1,9 @@
-/* Basic reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body styling */
 body {
     display: flex;
     justify-content: center;
